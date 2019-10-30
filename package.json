@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin-ticker",
+  "version": "1.0.0",
+  "description": "This is a bitcoint ticker web app that uses external apis to fetch bitcoin data",
+  "main": "bitcoin-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harish Bhagtani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
